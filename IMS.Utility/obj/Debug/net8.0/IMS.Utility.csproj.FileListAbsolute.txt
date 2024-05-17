@@ -1,0 +1,11 @@
+E:\IMS\IMS.Utility\bin\Debug\net8.0\IMS.Utility.deps.json
+E:\IMS\IMS.Utility\bin\Debug\net8.0\IMS.Utility.dll
+E:\IMS\IMS.Utility\bin\Debug\net8.0\IMS.Utility.pdb
+E:\IMS\IMS.Utility\obj\Debug\net8.0\IMS.Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\IMS\IMS.Utility\obj\Debug\net8.0\IMS.Utility.AssemblyInfoInputs.cache
+E:\IMS\IMS.Utility\obj\Debug\net8.0\IMS.Utility.AssemblyInfo.cs
+E:\IMS\IMS.Utility\obj\Debug\net8.0\IMS.Utility.csproj.CoreCompileInputs.cache
+E:\IMS\IMS.Utility\obj\Debug\net8.0\IMS.Utility.dll
+E:\IMS\IMS.Utility\obj\Debug\net8.0\refint\IMS.Utility.dll
+E:\IMS\IMS.Utility\obj\Debug\net8.0\IMS.Utility.pdb
+E:\IMS\IMS.Utility\obj\Debug\net8.0\ref\IMS.Utility.dll
