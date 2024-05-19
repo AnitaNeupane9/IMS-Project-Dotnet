@@ -18,6 +18,5 @@ namespace IMS.Models.Entity
 
         public virtual Storeinfo Storeinfo { get; set; }
         public virtual ICollection<ProductRateInfo> ProductRateInfos { get; set; }
-        public virtual ICollection<SupplierInfo> SuppliersInfos { get; set; }
     }
 }

@@ -15,3 +15,4 @@ E:\IMS\IMS.Infrastructure\obj\Debug\net8.0\IMS.Infrastructure.csproj.AssemblyRef
 E:\IMS\IMS.Infrastructure\obj\Debug\net8.0\IMS.Infr.A6A27735.Up2Date
 E:\IMS\IMS.Infrastructure\bin\Debug\net8.0\IMS.Infrastructure.runtimeconfig.json
 E:\IMS\IMS.Infrastructure\obj\Debug\net8.0\IMS.Infrastructure.genruntimeconfig.cache
+E:\IMS\IMS.Infrastructure\obj\Debug\net8.0\IMS.Infrastructure.sourcelink.json

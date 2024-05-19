@@ -1,4 +1,4 @@
-﻿using System;
+﻿                          using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,7 +12,7 @@ namespace IMS.Models.Entity
         public int CategoryInfoId { get; set; }
         public string ProductName { get; set; }
         public string ProductDescription { get; set; }
-        public long UnitInfoId {  get; set; }
+        public int UnitInfoId {  get; set; }
         public int StoreinfoId { get; set; }
         public string ImageUrl { get; set; }
         public bool IsActive { get; set; }

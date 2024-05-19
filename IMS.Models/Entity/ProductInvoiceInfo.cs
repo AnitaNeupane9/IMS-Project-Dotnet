@@ -15,9 +15,9 @@ namespace IMS.Models.Entity
         public int StoreinfoId { get; set; }
         public int  CustomerInfoId { get; set; }
         public DateTime TransactionDate { get; set; }
-        public double NetAmount { get; set; }
-        public double DiscountAmount { get; set; }
-        public double TotalAmount { get; set; }
+        public float NetAmount { get; set; }
+        public float DiscountAmount { get; set; }
+        public float TotalAmount { get; set; }
         //public double Tax { get; set; }
         //public double VAT { get; set; }
         public string Remarks { get; set; }

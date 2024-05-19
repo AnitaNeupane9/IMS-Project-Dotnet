@@ -14,7 +14,6 @@ namespace IMS.Models.Entity
         public string Address { get; set; }
         public string Email { get; set; }
         public int StoreinfoId { get; set; }
-        public int RackInfoId { get; set; }
         public bool IsActive { get; set; }
         public DateTime CreatedDate { get; set; }
         public string CreatedBy { get; set; }
@@ -23,7 +22,6 @@ namespace IMS.Models.Entity
 
 
         public virtual Storeinfo Storeinfo { get; set; }
-        public virtual RackInfo RackInfo { get; set; }
         public virtual ICollection<ProductRateInfo> ProductRateInfos { get; set; }
     }
 }

@@ -13,6 +13,7 @@ namespace IMS.Models.Entity
         public int StoreinfoId { get; set; }
         public int SupplierInfoId { get; set; }
         public int RackInfoId { get; set; }
+
         public float CostPrice { get; set; }
         public float SellingPrice { get; set; }
         public float Quantity { get; set; }
@@ -20,7 +21,8 @@ namespace IMS.Models.Entity
         public float RemainingQuantity { get; set; }
         public string BatchNo { get; set; }
         public DateTime PurchaseDate { get; set; }
-        public DateTime ExpiryDate { get; set; }
+        public DateTime? ExpiryDate { get; set; }
+
         public bool IsActive { get; set; }
         public DateTime CreatedDate { get; set; }
         public string CreatedBy { get; set; }

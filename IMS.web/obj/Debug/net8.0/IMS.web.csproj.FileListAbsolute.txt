@@ -290,3 +290,4 @@ E:\IMS\IMS.web\bin\Debug\net8.0\IMS.Utility.dll
 E:\IMS\IMS.web\bin\Debug\net8.0\IMS.Infrastructure.pdb
 E:\IMS\IMS.web\bin\Debug\net8.0\IMS.Models.pdb
 E:\IMS\IMS.web\bin\Debug\net8.0\IMS.Utility.pdb
+E:\IMS\IMS.web\obj\Debug\net8.0\IMS.web.sourcelink.json
